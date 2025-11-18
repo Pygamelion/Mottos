@@ -9,7 +9,7 @@
   #place(
     center + bottom,
     dy: 60pt,
-    image("../Figures/Art/roxy2.png"),
+    image("../Figures/Art/Ani/roxy2.png"),
   )
 
 ]
@@ -49,7 +49,7 @@
 
 #focus-slide(config: config-page(fill: rgb(0, 0, 0)))[
 
-  #image("../Figures/Art/roxy.jpg", fit: "stretch", height: 135%, width: 117%)
+  #image("../Figures/Art/Ani/roxy.jpg", fit: "stretch", height: 135%, width: 117%)
 ]
 
 #slide()[
@@ -67,7 +67,7 @@
   #place(
     center,
     dy: -20pt,
-    image("../Figures/Art/reimu_gun.jpg"),
+    image("../Figures/Art/TH/reimu_gun.jpg"),
   )
   #place(
     bottom + center,
